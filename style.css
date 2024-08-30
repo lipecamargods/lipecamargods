@@ -1,0 +1,43 @@
+body {
+    color:white;
+    background:black;
+    margin: 20px;
+    font-family: "Chakra Petch", sans-serif;
+
+
+}
+
+
+header {
+
+    border-color: solid 20px blue;
+    padding: 10px;
+    font-size: 36px;
+
+
+
+}
+
+section {
+
+    background: rgb(184,156,213);
+    margin: 20px;
+      
+
+}
+
+ chamada-texto {
+    margin-right: 5px;
+
+}
+
+h1 {
+    font-size: 40px ;
+
+
+}
+
+p {
+    font-size: 20px;
+
+}
